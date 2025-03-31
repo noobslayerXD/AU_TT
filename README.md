@@ -5,3 +5,5 @@
 ---
 
 Kodeeksempel og testbenches
+
+[Github respository til original kode](https://github.com/Gurusatwik/PWM-Generator)
