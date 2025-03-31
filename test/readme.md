@@ -3,4 +3,4 @@
 * Makefile
   * Makefile til CocoTB
 * tb.v
-  * Testbench    
+  * Testbench til Tiny tape out, den instantiere 
