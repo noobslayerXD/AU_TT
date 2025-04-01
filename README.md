@@ -8,7 +8,7 @@
 
 Herunder et link til github repository med original koden
 
-[Github respository til original kode](https://github.com/Gurusatwik/PWM-Generator)
+[Github repository til original kode](https://github.com/Gurusatwik/PWM-Generator)
 
 ## Slides til workshop i Aarhus
 [Slides til workshop](https://1drv.ms/p/s!AlPHw4nTEbc6pfRCYrTPNJEeWBVsMQ?e=jDJ7dZ)
