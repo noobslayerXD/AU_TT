@@ -4,6 +4,13 @@
  
 ---
 
-* Kodeeksempel og testbenches
+* Dette repository indeholder Kodeeksempel og testbenches
 
-[Github respository til original kode](https://github.com/Gurusatwik/PWM-Generator)
+Herunder et link til github repository med original koden
+
+[Github respository til original kode](https://1drv.ms/p/s!AlPHw4nTEbc6pfRCYrTPNJEeWBVsMQ?e=jDJ7dZ)
+
+## Slides til workshop
+[Slides til workshop](https://github.com/Gurusatwik/PWM-Generator)
+
+
