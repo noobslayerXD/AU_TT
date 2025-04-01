@@ -13,4 +13,6 @@ Herunder et link til github repository med original koden
 ## Slides til workshop
 [Slides til workshop](https://1drv.ms/p/s!AlPHw4nTEbc6pfRCYrTPNJEeWBVsMQ?e=jDJ7dZ)
 
+---
 
+## Program over workshop i København
