@@ -21,3 +21,6 @@ Herunder et link til github repository med original koden
 
 Link til TIny tapeout 6
 https://tinytapeout.com/runs/tt06/
+---
+Mit tilrettede Tiny Tapeout repository
+[Mit tilrettede Tiny tapeout repo](https://github.com/jmkr-ece-git/au-tt-workshop-jmkr.git)
